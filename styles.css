@@ -1,0 +1,13 @@
+body{
+  background-color: #EAF986;
+  font-family: 'Chewy', cursive;
+}
+header, footer {
+  background-color: #B0C333;
+} 
+nav {
+
+}
+.container {
+  text-align: center;
+}
